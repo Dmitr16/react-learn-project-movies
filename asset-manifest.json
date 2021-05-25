@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-learn-project-movies/static/css/main.90f9d5a4.chunk.css",
+    "main.js": "/react-learn-project-movies/static/js/main.1073c1cd.chunk.js",
+    "main.js.map": "/react-learn-project-movies/static/js/main.1073c1cd.chunk.js.map",
+    "runtime-main.js": "/react-learn-project-movies/static/js/runtime-main.0bd4e190.js",
+    "runtime-main.js.map": "/react-learn-project-movies/static/js/runtime-main.0bd4e190.js.map",
+    "static/js/2.8a166505.chunk.js": "/react-learn-project-movies/static/js/2.8a166505.chunk.js",
+    "static/js/2.8a166505.chunk.js.map": "/react-learn-project-movies/static/js/2.8a166505.chunk.js.map",
+    "index.html": "/react-learn-project-movies/index.html",
+    "static/css/main.90f9d5a4.chunk.css.map": "/react-learn-project-movies/static/css/main.90f9d5a4.chunk.css.map",
+    "static/js/2.8a166505.chunk.js.LICENSE.txt": "/react-learn-project-movies/static/js/2.8a166505.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd4e190.js",
+    "static/js/2.8a166505.chunk.js",
+    "static/css/main.90f9d5a4.chunk.css",
+    "static/js/main.1073c1cd.chunk.js"
+  ]
+}
